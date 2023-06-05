@@ -26,7 +26,7 @@ public class Interpolation {
 
         /**
          * Observations for learning: using command PRINTF for use model interpolation output data and not PRINTLN
-         * %s = string; %f = point flutuant
+         * %s = string; %f = point flutuant; %d = integer; %n = broken line;
          */
 
     }
