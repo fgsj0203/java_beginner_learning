@@ -18,16 +18,22 @@ public class Interpolation {
         /**
          * Printing data output
          */
-        System.out.printf("%s, which price is %.2f %n", product1, price1);
-        System.out.printf("%s, which price is %.2f %n %n", product2, price2);
-        System.out.printf("Record: %d years old, code %d and gender: %c %n %n",age,code,gender);
-        System.out.printf("Measure with eight decimal places: %.8f %n", measure);
-        System.out.printf("Rouded (three decimal places): %.3f", measure);
+        /**
+         *System.out.printf("%s, which price is %.2f %n", product1, price1);
+         *System.out.printf("%s, which price is %.2f %n %n", product2, price2);
+         *System.out.printf("Record: %d years old, code %d and gender: %c %n %n",age,code,gender);
+         *System.out.printf("Measure with eight decimal places: %.8f %n", measure);
+         *System.out.printf("Rouded (three decimal places): %.3f", measure);
+         */
+
 
         /**
          * Observations for learning: using command PRINTF for use model interpolation output data and not PRINTLN
          * %s = string; %f = point flutuant; %d = integer; %n = broken line;
          */
+
+        //*********************************************************************************************************
+
 
     }
 }
