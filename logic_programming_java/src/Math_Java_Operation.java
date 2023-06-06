@@ -35,6 +35,15 @@ public class Math_Java_Operation {
         System.out.println("Squad roots of number: "+ x +" = " + A);
         System.out.println("Squad roots of number: "+ y + " = " + B);
         System.out.println("Squad roots of number: "+ z + " = " + C);
-        
+
+        //Operation Math with power
+        A = Math.pow(x,y);
+        B = Math.pow(x, 2);
+        C = Math.pow(x, 3);
+
+        //Printing values of operation math power
+        System.out.println(x + " Elevate a "+ y + " = " + A);
+        System.out.println(x + " Elevate a power two " + " = " + B);
+        System.out.println(x + " Elevate a power three " + " = " + C);
     }
 }
