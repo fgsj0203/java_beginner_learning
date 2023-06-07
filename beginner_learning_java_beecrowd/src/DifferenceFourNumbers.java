@@ -31,6 +31,6 @@ public class DifferenceFourNumbers {
 
         //Printing value final of operation
         System.out.println("Value final of difference is: " + differenceNumbers);
-        
+
     }
 }
