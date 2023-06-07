@@ -47,6 +47,6 @@ public class EmployeeSalary {
          */
         System.out.println("number Employee ID: "+numberEmployee);
         System.out.println("Salary brute: U$"+salaryBrute);
-        
+
     }
 }
