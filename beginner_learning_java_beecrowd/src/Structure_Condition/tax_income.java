@@ -36,7 +36,7 @@ public class tax_income {
         } else if (income > 2000.01 && income <= 3000.00) {
             tax_income = (income * 0.08);
         } else if (income > 3000.01 && income < 4500.00) {
-            tax_income = (income * 0.18) + ();
+            tax_income = (income * 0.18);
         } else if (income > 4500.00) {
             tax_income = (income * 0.28);
         } else {
