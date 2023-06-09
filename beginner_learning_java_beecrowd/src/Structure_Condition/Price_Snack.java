@@ -56,6 +56,9 @@ public class Price_Snack {
          */
         System.out.println("Price final of snack is: U$ "+ priceFinal);
 
-
+        /**
+         * Ending resource Scanner
+         */
+        sc.close();
     }
 }
