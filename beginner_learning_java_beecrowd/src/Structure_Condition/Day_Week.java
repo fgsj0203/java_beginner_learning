@@ -42,5 +42,10 @@ public class Day_Week {
         } else {
             System.out.println("Day invalid, try again");
         }
+
+        /**
+         * Ending resource Scanner
+         */
+        sc.close();
     }
 }
