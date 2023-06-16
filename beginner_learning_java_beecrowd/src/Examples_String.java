@@ -36,6 +36,12 @@ public class Examples_String {
         String s05 = original.substring(2,10);
 
         /**
+         * Using command replace for literal replace two arguments
+         * Usar o comando replace para substituir um dado pelo outro em uma String
+         */
+        String s06 = original.replace("A", "q");
+
+        /**
          * Printing demonstration
          */
         System.out.println(original);
@@ -44,6 +50,7 @@ public class Examples_String {
         System.out.println(s03);
         System.out.println(s04);
         System.out.println(s05);
+        System.out.println(s06);
 
         /**
          * Ending resource Scanner
