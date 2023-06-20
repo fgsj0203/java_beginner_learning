@@ -30,7 +30,7 @@ public class Equal_password {
         /**
          * Logical Structure for printing final value
          */
-        while (!name.equals(password)){
+        while (!name.equals(password)){ //Utilizando a sigla de exclamação "!" é referente a negação do valor booleano da variável
             System.out.println("Name not equal a password, try again");
             System.out.println("Your name: ");
             name = sc.nextLine();
