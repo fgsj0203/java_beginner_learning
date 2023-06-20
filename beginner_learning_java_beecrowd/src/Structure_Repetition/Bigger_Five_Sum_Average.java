@@ -24,7 +24,7 @@ public class Bigger_Five_Sum_Average {
         for (int i = 0; i < 5; i++) {
             System.out.println("Enter with a number: ");
             number = sc.nextInt();
-            sum += number;
+            sum += number; //o trecho "+=" é o mesmo que [variável-A] = [variável-A] + [variável 2] 
         }
 
         /**
