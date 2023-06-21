@@ -25,7 +25,14 @@ public class Sum_Numbers {
 
     }
     /**
+     * O escopo das funções nesses exemplos para aprendizado precisa está fora do escopo da função main
+     * A partir delas eu posso realizar as "chamadas" das funções
+     */
+
+    /**
      * *************** Section of Function ********************
+     * Criando função que terá 3 argumentos para criar a "lógica" para a soma dos 3 numbers
+     * Que o usuário colocar no escopo da main.
      */
     public static double sumNumbers(double x, double y, double z){
         double aux;
