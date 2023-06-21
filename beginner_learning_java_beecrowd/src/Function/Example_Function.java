@@ -33,13 +33,13 @@ public class Example_Function {
     /**
      * Area for creation first function example
      */
-    public static int max (int x, int y, int z){
+    public static int max(int x, int y, int z) {
         /**
          * Creating variable local with support a value higher
          * Criando uma variável local que receberá o maior valor da nossa função
          */
         int aux;
-        if (x > y && x > z){
+        if (x > y && x > z) {
             aux = x;
         } else if (y > z) {
             aux = y;
@@ -53,10 +53,7 @@ public class Example_Function {
      * Creating function only printing value final
      * Criando função para imprmir valor final na tela
      */
-    public static void showResult (int value){
+    public static void showResult(int value) {
         System.out.println("Higher number is: " + value);
     }
-
-
-
 }
