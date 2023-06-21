@@ -20,6 +20,8 @@ public class Main {
         product.calculateStock();
         System.out.println("Value final of Stock is: "+product.calculateStock());
 
+        //In development
+
 
     }
 }
